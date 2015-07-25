@@ -11,7 +11,7 @@ it also highlight type and typeclass.
 install it by hand, you need to copy all the files under the root to `~/.vim`
 
 install it by plugin manager like [vim-plug][vim-plug], 
-you need to add `Plug delta4d/prelude.vim` to your *.vimrc* 
+you need to add `Plug 'delta4d/prelude.vim'` to your *.vimrc* 
 and then run `:PlugInstall` should do all the work.
 
 
