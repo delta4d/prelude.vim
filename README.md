@@ -4,7 +4,7 @@ highlight all the functions from [prelude][prelude] except "operators"
 (though opertor is function in haskell).
 it also highlight type and typeclass.
 
-
+the function list is got by running `echo :browse Prelude | ghci`.
 
 ## Installation
 
