@@ -8,7 +8,6 @@ syntax keyword hsPreludeFunction enumFrom
 syntax keyword hsPreludeFunction enumFromThen
 syntax keyword hsPreludeFunction enumFromTo
 syntax keyword hsPreludeFunction enumFromThenTo
-syntax keyword hsPreludeFunction class Eq a wher
 syntax keyword hsPreludeFunction pi
 syntax keyword hsPreludeFunction exp
 syntax keyword hsPreludeFunction sqrt
@@ -67,7 +66,6 @@ syntax keyword hsPreludeFunction truncate
 syntax keyword hsPreludeFunction round
 syntax keyword hsPreludeFunction ceiling
 syntax keyword hsPreludeFunction floor
-syntax keyword hsPreludeFunction class Show a wher
 syntax keyword hsPreludeFunction showsPrec
 syntax keyword hsPreludeFunction show
 syntax keyword hsPreludeFunction showList
